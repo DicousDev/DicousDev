@@ -14,6 +14,8 @@ I'm game developer in Brazil 👨‍💻❤
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=flat&logo=unity&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat&logo=css3&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat&logo=windows&logoColor=white)
 
 #### Languages
