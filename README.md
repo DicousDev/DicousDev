@@ -4,11 +4,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/dicousdev?style=flat&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/dicousdev?style=flat&logo=github)
 
-I'm game developer in Brazil 👨‍💻❤
-
-- ⚡ Unity Expert
-- 👨‍💻 C# Coder
-- 🌱 I'm currently prototyping systems in Unity
+I'm a systems development student, I do some front end projects and I develop games, it's the jobs I love doing the most. 👨‍💻❤
 
 #### Techs
 ![Unity](https://img.shields.io/badge/-Unity-020202?style=flat&logo=unity&logoColor=white)
