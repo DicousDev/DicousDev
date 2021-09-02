@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br><br>
 
-![DicousDev's github stats](https://github-readme-stats.vercel.app/api?username=DicousDev&show_icons=true&theme=white)
+![DicousDev's github stats](https://github-readme-stats.vercel.app/api?username=DicousDev&show_icons=true&theme=dracula)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!--
