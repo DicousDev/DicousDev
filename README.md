@@ -1,9 +1,12 @@
 ## Hii there 👋
 
-My name is João Victor, I'm 20 years old 
+🌱 Backend developer. Results oriented
 
-I'm passionate about technology, i'm a back-end developer willing to develop, seek and face new challenges to improve myself.
-I have some projects completed with html css and javascript technologies.
+😄 proactive, skilled in communicating and performing team tasks
+
+⚡ Currently learning to develop APIs with nodeJs Express
+
+
 
 ## Technologies
 <div style="display: inline_block;">
@@ -20,8 +23,17 @@ I have some projects completed with html css and javascript technologies.
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br><br>
 
-![DicousDev's github stats](https://github-readme-stats.vercel.app/api?username=DicousDev&show_icons=true&theme=dracula)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- ![DicousDev's github stats](https://github-readme-stats.vercel.app/api?username=DicousDev&show_icons=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DicousDev&layout=compact&langs_count=7&theme=dark"/> -->
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DicousDev&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DicousDev&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
+<!--   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DicousDev)](https://github.com/DicousDev/github-readme-stats) -->
+
 
 <!--
 **DicousDev/DicousDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
