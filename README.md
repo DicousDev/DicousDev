@@ -35,10 +35,11 @@ Property | Data
 <br/>
 
 **📫 How to Reach me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-duarte-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="DicousDev" height="30" width="30" /></a>
-<a href="mailto:joaodicu387@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
+<div> 
+  <a href = "mailto:joaodicu387@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://pt.stackoverflow.com/users/274692/jo%c3%a3o-victor"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> </a>
+</div>
   
 ---
 *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
